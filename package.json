@@ -9,12 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@chakra-ui/react": "^2.7.0",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@react-google-maps/api": "^2.18.1",
     "@types/node": "20.3.1",
     "@types/react": "18.2.12",
     "@types/react-dom": "18.2.5",
     "autoprefixer": "10.4.14",
     "eslint": "8.42.0",
     "eslint-config-next": "13.4.6",
+    "framer-motion": "^10.12.16",
+    "google-map-react": "^2.2.1",
     "next": "13.4.6",
     "postcss": "8.4.24",
     "react": "18.2.0",
